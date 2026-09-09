@@ -1,0 +1,52 @@
+/* Colores generales - tema verde */
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  color: #222;
+}
+
+.navbar {
+  background-color: #1b4332;
+}
+
+.header-section {
+  background-color: #1b4332;
+  background-image: linear-gradient(135deg, #1b4332, #2d6a4f);
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.foto-perfil {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border: 4px solid white;
+}
+
+.titulo-seccion {
+  color: #1b4332;
+  border-bottom: 3px solid #2d6a4f;
+  display: inline-block;
+  padding-bottom: 5px;
+}
+
+.seccion-gris {
+  background-color: #f2f2f2;
+}
+
+.card {
+  border: none;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  transition: transform 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+footer {
+  background-color: #1b4332;
+}
+
+a {
+  color: #2d6a4f;
+}

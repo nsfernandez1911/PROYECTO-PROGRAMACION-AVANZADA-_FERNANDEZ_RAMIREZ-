@@ -1,0 +1,52 @@
+/* Colores generales - tema azul */
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  color: #0d0d0d;
+}
+
+.navbar {
+  background-color: #01070c;
+}
+
+.header-section {
+  background-color: #111111;
+  background-image: linear-gradient(135deg, #0d3b66, #1d6fa5);
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.foto-perfil {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border: 4px solid rgb(226, 226, 229);
+}
+
+.titulo-seccion {
+  color: #0d3b66;
+  border-bottom: 3px solid #1d6fa5;
+  display: inline-block;
+  padding-bottom: 5px;
+}
+
+.seccion-gris {
+  background-color: #f2f2f2;
+}
+
+.card {
+  border: none;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  transition: transform 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+footer {
+  background-color: #0d3b66;
+}
+
+a {
+  color: #1d6fa5;
+}
