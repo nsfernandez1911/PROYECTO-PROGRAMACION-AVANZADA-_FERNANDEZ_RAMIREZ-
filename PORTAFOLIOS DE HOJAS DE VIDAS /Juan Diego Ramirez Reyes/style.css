@@ -23,14 +23,14 @@ body {
 }
 
 .titulo-seccion {
-  color: #1b4332;
+  color: #01120b;
   border-bottom: 3px solid #2d6a4f;
   display: inline-block;
   padding-bottom: 5px;
 }
 
 .seccion-gris {
-  background-color: #f2f2f2;
+  background-color: #f6f2f2;
 }
 
 .card {
@@ -44,9 +44,9 @@ body {
 }
 
 footer {
-  background-color: #1b4332;
+  background-color: #10f210;
 }
 
 a {
-  color: #000000;
+  color: #d53030;
 }
